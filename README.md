@@ -44,22 +44,6 @@ TypeScript - React 18 - Vite - Tailwind CSS - react-simple-maps - Framer Motion 
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page
-![Home](screenshots/home.png)
-
-### Interactive Globe
-![Globe](screenshots/globe-view.png)
-
-### Country Intelligence Panel
-![Panel](screenshots/country-panel.png)
-
-### AI Tactical Brief
-![AI Brief](screenshots/ai-brief.png)
-
----
-
 ## 🎯 Hackathon Submission
 
 Submitted for:
